@@ -15,6 +15,9 @@ Two supervised learning projects on public tabular data, built with the same pip
 ├── class_utils.py
 ├── Regression.ipynb
 ├── regress_utils.py
+├── docs/
+│   ├── class_utils.html
+│   └── regress_utils.html
 └── README.md
 ```
 
